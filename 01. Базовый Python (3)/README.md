@@ -1,4 +1,4 @@
-# [Музыка больших городов](https://github.com/observer012/yandex_practicum/blob/main/01.%20Базовый%20Python/Музыка%20больших%20городов.ipynb)
+# [Музыка больших городов](https://github.com/observer012/yandex_practicum/blob/main/01.%20Базовый%20Python%20(3)/Музыка%20больших%20городов.ipynb)
 
 
 ## Данные
