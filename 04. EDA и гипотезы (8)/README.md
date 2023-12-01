@@ -1,4 +1,4 @@
-# [Исследование успешности игр](https://github.com/observer012/yandex_practicum/blob/main/04.%20Сборный%20проект%20—%201%20(8)/Исследование%20успешности%20игр.ipynb)
+# [Исследование успешности игр](https://github.com/observer012/yandex_practicum/blob/main/04.%20EDA%20и%20гипотезы%20(8)/Исследование%20успешности%20игр.ipynb)
 
 
 ## Данные
