@@ -1,4 +1,4 @@
-# [Основы PostgreSQL]()
+# [Основы PostgreSQL](https://github.com/observer012/yandex_practicum/blob/main/13.%20Основы%20%20PostgreSQL%20(18)/PostgreSQL.ipynb)
 
 
 ## Данные
