@@ -4,7 +4,7 @@
 ## Описание проекта
 ### Данные
 
-Предоставлен набор данных о пользователях банковской системы. 
+Предоставлен набор данных о пользователях банковской системы. \
 Источник данных: [https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling](https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling)
 
 ### Задача
@@ -24,9 +24,20 @@
 - **pandas**
 - matplotlib.**pyplot**
 - sklearn.model_selection.**train_test_split**
-- sklearn.preprocessing.:
+- sklearn.preprocessing.
 	- **StandardScaler**, **OneHotEncoder**
 - sklearn.metrics.
-- 
-- *tqdm*
+	- **f1_score**, **roc_auc_score**, **roc_curve**, **recall_score**
+- sklearn.utils.**shuffle**
+- sklearn.tree.**DecisionTreeClassifier**
+- sklearn.ensemble.**RandomForestClassifier**
+- sklearn.linear_model.**LogisticRegression**
+- **tqdm**
 
+##
+
+## Общий вывод
+
+Выбрана лучшая модель(RandomForestClassifier) с учетом балансировки, позволяющая спрогнозировать уйдет клиент из банка или нет. Точность модели: 0.6
+
+<u>***Статус проекта: завершен.***</u>  
